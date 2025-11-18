@@ -1,0 +1,740 @@
+                                 1.
+                                 <section
+		                                class="elementor-section elementor-top-section elementor-element elementor-element-78dccb8 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+		                                data-id="78dccb8"
+		                                data-element_type="section"
+		                            >
+		                                <div class="elementor-container elementor-column-gap-default">
+		                                    <div class="elementor-row">
+		                                        <div
+		                                            class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-77f1efa"
+		                                            data-id="77f1efa"
+		                                            data-element_type="column"
+		                                            data-settings='{"starto_ext_is_scrollme":"false","starto_ext_is_smoove":"false","starto_ext_is_parallax_mouse":"false","starto_ext_is_infinite":"false"}'
+		                                        >
+		                                            <div class="elementor-column-wrap elementor-element-populated">
+		                                                <div class="elementor-widget-wrap">
+		                                                    <div
+		                                                        class="elementor-element elementor-element-16885c0 elementor-widget__width-auto elementor-widget elementor-widget-heading"
+		                                                        data-id="16885c0"
+		                                                        data-element_type="widget"
+		                                                        data-settings='{"starto_ext_is_scrollme":"false","starto_ext_is_parallax_mouse":"false","starto_ext_is_infinite":"false"}'
+		                                                        data-widget_type="heading.default"
+		                                                    >
+		                                                        <div class="elementor-widget-container">
+		                                                            <h6 class="elementor-heading-title elementor-size-default">In it for the long haul</h6>
+		                                                        </div>
+		                                                    </div>
+		                                                    <div
+		                                                        class="elementor-element elementor-element-dcd86d4 elementor-widget elementor-widget-spacer"
+		                                                        data-id="dcd86d4"
+		                                                        data-element_type="widget"
+		                                                        data-settings='{"starto_ext_is_scrollme":"false","starto_ext_is_smoove":"false","starto_ext_is_parallax_mouse":"false","starto_ext_is_infinite":"false"}'
+		                                                        data-widget_type="spacer.default"
+		                                                    >
+		                                                        <div class="elementor-widget-container">
+		                                                            <div class="elementor-spacer">
+		                                                                <div class="elementor-spacer-inner"></div>
+		                                                            </div>
+		                                                        </div>
+		                                                    </div>
+		                                                    <div
+		                                                        class="elementor-element elementor-element-4178074 elementor-widget__width-initial elementor-widget-tablet__width-inherit elementor-widget-mobile__width-inherit elementor-widget elementor-widget-heading"
+		                                                        data-id="4178074"
+		                                                        data-element_type="widget"
+		                                                        data-settings='{"starto_ext_is_scrollme":"false","starto_ext_is_parallax_mouse":"false","starto_ext_is_infinite":"false"}'
+		                                                        data-widget_type="heading.default"
+		                                                    >
+		                                                        <div class="elementor-widget-container">
+		                                                            <h1 class="elementor-heading-title elementor-size-default">Why SchoolFirst Exists.</h1>
+		                                                        </div>
+		                                                    </div>
+		                                                </div>
+		                                            </div>
+		                                        </div>
+		                                    </div>
+		                                </div>
+		                            </section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    
+
+                                    2. 
+
+                                    
+									 <section
+                        class="elementor-section elementor-top-section elementor-element elementor-element-3782ff6 elementor-section-stretched elementor-reverse-mobile elementor-section-full_width elementor-section-height-default elementor-section-height-default"
+                        data-id="3782ff6"
+                        data-element_type="section"
+                        data-settings='{"stretch_section":"section-stretched","background_background":"classic"}'
+                      >
+                        <div
+                          class="elementor-container elementor-column-gap-default"
+                        >
+                          <div class="elementor-row">
+                            <div
+                              class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-7bb5f0e"
+                              data-id="7bb5f0e"
+                              data-element_type="column"
+                              data-settings='{"starto_ext_is_scrollme":"false","starto_ext_is_smoove":"false","starto_ext_is_parallax_mouse":"false","starto_ext_is_infinite":"false"}'
+                            >
+                              <div
+                                class="elementor-column-wrap elementor-element-populated"
+                              >
+                                <div class="elementor-widget-wrap">
+                                  <div
+                                    class="elementor-element elementor-element-a43f03d elementor-widget__width-initial elementor-widget-tablet__width-initial elementor-absolute mobile_static elementor-widget elementor-widget-image"
+                                    data-id="a43f03d"
+                                    data-element_type="widget"
+                                    data-settings='{"starto_ext_is_smoove":"true","starto_ext_smoove_disable":"769","starto_ext_smoove_duration":800,"starto_ext_smoove_translatex":{"unit":"px","size":100,"sizes":[]},"_position":"absolute","starto_ext_is_scrollme":"false","starto_ext_smoove_scalex":{"unit":"px","size":1,"sizes":[]},"starto_ext_smoove_scaley":{"unit":"px","size":1,"sizes":[]},"starto_ext_smoove_rotatex":{"unit":"px","size":0,"sizes":[]},"starto_ext_smoove_rotatey":{"unit":"px","size":0,"sizes":[]},"starto_ext_smoove_rotatez":{"unit":"px","size":0,"sizes":[]},"starto_ext_smoove_translatey":{"unit":"px","size":0,"sizes":[]},"starto_ext_smoove_translatez":{"unit":"px","size":0,"sizes":[]},"starto_ext_smoove_skewx":{"unit":"px","size":0,"sizes":[]},"starto_ext_smoove_skewy":{"unit":"px","size":0,"sizes":[]},"starto_ext_smoove_perspective":{"unit":"px","size":1000,"sizes":[]},"starto_ext_is_parallax_mouse":"false","starto_ext_is_infinite":"false"}'
+                                    data-widget_type="image.default"
+                                  >
+                                    <div class="elementor-widget-container">
+                                      <div class="elementor-image">
+                                        <img
+                                          width="600"
+                                          height="403"
+                                          src="upload/Dots-e1586433561566.png"
+                                          class="attachment-full size-full"
+                                          alt=""
+                                          loading="lazy"
+                                        />
+                                      </div>
+                                    </div>
+                                  </div>
+                                  <div
+                                    class="elementor-element elementor-element-06f3e5b elementor-widget__width-initial elementor-absolute mobile_static elementor-widget-mobile__width-inherit elementor-widget elementor-widget-image"
+                                    data-id="06f3e5b"
+                                    data-element_type="widget"
+                                    data-settings='{"starto_ext_is_smoove":"true","starto_ext_smoove_disable":"769","starto_ext_smoove_duration":800,"starto_ext_smoove_scalex":{"unit":"px","size":0.59999999999999997779553950749686919152736663818359375,"sizes":[]},"starto_ext_smoove_scaley":{"unit":"px","size":0.59999999999999997779553950749686919152736663818359375,"sizes":[]},"starto_ext_smoove_translatey":{"unit":"px","size":40,"sizes":[]},"_position":"absolute","starto_ext_is_scrollme":"false","starto_ext_smoove_rotatex":{"unit":"px","size":0,"sizes":[]},"starto_ext_smoove_rotatey":{"unit":"px","size":0,"sizes":[]},"starto_ext_smoove_rotatez":{"unit":"px","size":0,"sizes":[]},"starto_ext_smoove_translatex":{"unit":"px","size":0,"sizes":[]},"starto_ext_smoove_translatez":{"unit":"px","size":0,"sizes":[]},"starto_ext_smoove_skewx":{"unit":"px","size":0,"sizes":[]},"starto_ext_smoove_skewy":{"unit":"px","size":0,"sizes":[]},"starto_ext_smoove_perspective":{"unit":"px","size":1000,"sizes":[]},"starto_ext_is_parallax_mouse":"false","starto_ext_is_infinite":"false"}'
+                                    data-widget_type="image.default"
+                                  >
+                                    <div class="elementor-widget-container">
+                                      <div class="elementor-image">
+                                        <img
+                                          width="450"
+                                          height="149"
+                                          src="upload/GraphShape-e1586433581960.png"
+                                          class="attachment-full size-full"
+                                          alt=""
+                                          loading="lazy"
+                                        />
+                                      </div>
+                                    </div>
+                                  </div>
+                                  <div
+                                    class="elementor-element elementor-element-265d496 elementor-widget__width-inherit elementor-absolute elementor-widget elementor-widget-heading"
+                                    data-id="265d496"
+                                    data-element_type="widget"
+                                    data-settings='{"starto_ext_is_scrollme":"true","starto_ext_scrollme_translatex":{"unit":"px","size":200,"sizes":[]},"_position":"absolute","starto_ext_scrollme_disable":"mobile","starto_ext_scrollme_smoothness":{"unit":"px","size":30,"sizes":[]},"starto_ext_scrollme_scalex":{"unit":"px","size":1,"sizes":[]},"starto_ext_scrollme_scaley":{"unit":"px","size":1,"sizes":[]},"starto_ext_scrollme_scalez":{"unit":"px","size":1,"sizes":[]},"starto_ext_scrollme_rotatex":{"unit":"px","size":0,"sizes":[]},"starto_ext_scrollme_rotatey":{"unit":"px","size":0,"sizes":[]},"starto_ext_scrollme_rotatez":{"unit":"px","size":0,"sizes":[]},"starto_ext_scrollme_translatey":{"unit":"px","size":0,"sizes":[]},"starto_ext_scrollme_translatez":{"unit":"px","size":0,"sizes":[]},"starto_ext_is_smoove":"false","starto_ext_is_parallax_mouse":"false","starto_ext_is_infinite":"false"}'
+                                    data-widget_type="heading.default"
+                                  >
+                                    <div class="elementor-widget-container">
+                                      <h2
+                                        class="elementor-heading-title elementor-size-default"
+                                      >
+                                        Passion
+                                      </h2>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+
+                            <div
+                              class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-45b699c"
+                              data-id="45b699c"
+                              data-element_type="column"
+                              data-settings='{"starto_ext_is_scrollme":"false","starto_ext_is_smoove":"false","starto_ext_is_parallax_mouse":"false","starto_ext_is_infinite":"false"}'
+                            >
+                              <div
+                                class="elementor-column-wrap elementor-element-populated"
+                              >
+                                <div class="elementor-widget-wrap">
+                                  <div
+                                    class="elementor-element elementor-element-15f2eaa elementor-widget elementor-widget-heading"
+                                    data-id="15f2eaa"
+                                    data-element_type="widget"
+                                    data-settings='{"starto_ext_is_scrollme":"false","starto_ext_is_parallax_mouse":"false","starto_ext_is_infinite":"false"}'
+                                    data-widget_type="heading.default"
+                                  >
+                                    <div class="elementor-widget-container">
+                                      <h2
+                                        class="elementor-heading-title elementor-size-default"
+                                      >
+                                        What is School First?
+                                      </h2>
+                                    </div>
+                                  </div>
+                                  <div
+                                    class="elementor-element elementor-element-151f4e8 elementor-widget elementor-widget-text-editor"
+                                    data-id="151f4e8"
+                                    data-element_type="widget"
+                                    data-settings='{"starto_ext_is_scrollme":"false","starto_ext_is_parallax_mouse":"false","starto_ext_is_infinite":"false"}'
+                                    data-widget_type="text-editor.default"
+                                  >
+                                    <div class="elementor-widget-container">
+                                      <div
+                                        class="elementor-text-editor elementor-clearfix"
+                                      >
+                                        <p class="p1">
+                                          SchoolFirst is an AI and
+                                          neuroscience-powered platform that
+                                          helps teachers teach better, students
+                                          learn better and stay truly involved.
+                                          It brings planning, teaching,
+                                          assessment, communication and
+                                          analytics together so schools can
+                                          focus on what matters most – learning.
+                                          "
+                                        </p>
+                                      </div>
+                                    </div>
+                                  </div>
+                                  <div
+                                    class="elementor-element elementor-element-c645ce6 elementor-align-right elementor-mobile-align-center elementor-widget__width-auto elementor-widget elementor-widget-button"
+                                    data-id="c645ce6"
+                                    data-element_type="widget"
+                                    data-settings='{"starto_ext_is_scrollme":"false","starto_ext_is_parallax_mouse":"false","starto_ext_is_infinite":"false"}'
+                                    data-widget_type="button.default"
+                                  >
+                                    <div class="elementor-widget-container">
+                                      <div class="elementor-button-wrapper">
+                                        <a
+                                          href="about-2.html"
+                                          class="elementor-button-link elementor-button elementor-size-md elementor-animation-float"
+                                          role="button"
+                                        >
+                                          <span
+                                            class="elementor-button-content-wrapper"
+                                          >
+                                            <span class="elementor-button-text"
+                                              >Schedule Demo</span
+                                            >
+                                          </span>
+                                        </a>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </section>
+
+                      3.
+                      
+                      <section
+                        class="elementor-section elementor-top-section elementor-element elementor-element-e87c109 elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle"
+                        data-id="e87c109"
+                        data-element_type="section"
+                      >
+                        <div
+                          class="elementor-container elementor-column-gap-default"
+                        >
+                          <div class="elementor-row">
+                            <div
+                              class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-933fa0e"
+                              data-id="933fa0e"
+                              data-element_type="column"
+                              data-settings='{"starto_ext_is_scrollme":"false","starto_ext_is_smoove":"false","starto_ext_is_parallax_mouse":"false","starto_ext_is_infinite":"false"}'
+                            >
+                              <div
+                                class="elementor-column-wrap elementor-element-populated"
+                              >
+                                <div class="elementor-widget-wrap">
+                                  <div
+                                    class="elementor-element elementor-element-e1ca2b9 elementor-widget__width-auto elementor-absolute elementor-hidden-tablet elementor-hidden-phone elementor-widget elementor-widget-image"
+                                    data-id="e1ca2b9"
+                                    data-element_type="widget"
+                                    data-settings='{"starto_ext_is_scrollme":"true","starto_ext_scrollme_smoothness":{"unit":"px","size":40,"sizes":[]},"starto_ext_scrollme_translatex":{"unit":"px","size":100,"sizes":[]},"starto_ext_scrollme_translatey":{"unit":"px","size":-40,"sizes":[]},"_position":"absolute","starto_ext_scrollme_disable":"mobile","starto_ext_scrollme_scalex":{"unit":"px","size":1,"sizes":[]},"starto_ext_scrollme_scaley":{"unit":"px","size":1,"sizes":[]},"starto_ext_scrollme_scalez":{"unit":"px","size":1,"sizes":[]},"starto_ext_scrollme_rotatex":{"unit":"px","size":0,"sizes":[]},"starto_ext_scrollme_rotatey":{"unit":"px","size":0,"sizes":[]},"starto_ext_scrollme_rotatez":{"unit":"px","size":0,"sizes":[]},"starto_ext_scrollme_translatez":{"unit":"px","size":0,"sizes":[]},"starto_ext_is_smoove":"false","starto_ext_is_parallax_mouse":"false","starto_ext_is_infinite":"false"}'
+                                    data-widget_type="image.default"
+                                  >
+                                    <div class="elementor-widget-container">
+                                      <div class="elementor-image">
+                                        <img
+                                          width="100"
+                                          height="100"
+                                          src="upload/circle-purple-e1586412417617.png"
+                                          class="attachment-large size-large"
+                                          alt=""
+                                          loading="lazy"
+                                        />
+                                      </div>
+                                    </div>
+                                  </div>
+                                  <div
+                                    class="elementor-element elementor-element-a7b63be elementor-widget__width-auto elementor-absolute elementor-hidden-tablet elementor-hidden-phone elementor-widget elementor-widget-image"
+                                    data-id="a7b63be"
+                                    data-element_type="widget"
+                                    data-settings='{"starto_ext_is_scrollme":"true","starto_ext_scrollme_translatex":{"unit":"px","size":100,"sizes":[]},"starto_ext_scrollme_translatey":{"unit":"px","size":-40,"sizes":[]},"_position":"absolute","starto_ext_scrollme_disable":"mobile","starto_ext_scrollme_smoothness":{"unit":"px","size":30,"sizes":[]},"starto_ext_scrollme_scalex":{"unit":"px","size":1,"sizes":[]},"starto_ext_scrollme_scaley":{"unit":"px","size":1,"sizes":[]},"starto_ext_scrollme_scalez":{"unit":"px","size":1,"sizes":[]},"starto_ext_scrollme_rotatex":{"unit":"px","size":0,"sizes":[]},"starto_ext_scrollme_rotatey":{"unit":"px","size":0,"sizes":[]},"starto_ext_scrollme_rotatez":{"unit":"px","size":0,"sizes":[]},"starto_ext_scrollme_translatez":{"unit":"px","size":0,"sizes":[]},"starto_ext_is_smoove":"false","starto_ext_is_parallax_mouse":"false","starto_ext_is_infinite":"false"}'
+                                    data-widget_type="image.default"
+                                  >
+                                    <div class="elementor-widget-container">
+                                      <div class="elementor-image">
+                                        <img
+                                          width="100"
+                                          height="100"
+                                          src="upload/circle-purple-e1586412417617.png"
+                                          class="attachment-large size-large"
+                                          alt=""
+                                          loading="lazy"
+                                        />
+                                      </div>
+                                    </div>
+                                  </div>
+                                  <div
+                                    class="elementor-element elementor-element-73cde87 elementor-widget elementor-widget-heading"
+                                    data-id="73cde87"
+                                    data-element_type="widget"
+                                    data-settings='{"starto_ext_is_scrollme":"false","starto_ext_is_parallax_mouse":"false","starto_ext_is_infinite":"false"}'
+                                    data-widget_type="heading.default"
+                                  >
+                                    <div class="elementor-widget-container">
+                                      <h2
+                                        class="elementor-heading-title elementor-size-default"
+                                      >
+                                        Start running your school on
+                                        intelligence, not on instinct.
+                                      </h2>
+                                    </div>
+                                  </div>
+                                  <section
+                                    class="elementor-section elementor-inner-section elementor-element elementor-element-b7037e0 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                                    data-id="b7037e0"
+                                    data-element_type="section"
+                                  >
+                                    <div
+                                      class="elementor-container elementor-column-gap-default"
+                                    >
+                                      <div class="elementor-row">
+                                        <div
+                                          class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-a8067c5"
+                                          data-id="a8067c5"
+                                          data-element_type="column"
+                                          data-settings='{"starto_ext_is_scrollme":"false","starto_ext_is_smoove":"false","starto_ext_is_parallax_mouse":"false","starto_ext_is_infinite":"false"}'
+                                        >
+                                          <div
+                                            class="elementor-column-wrap elementor-element-populated"
+                                          >
+                                            <div class="elementor-widget-wrap">
+                                              <div
+                                                class="elementor-element elementor-element-43909b3 elementor-widget elementor-widget-image"
+                                                data-id="43909b3"
+                                                data-element_type="widget"
+                                                data-settings='{"starto_ext_is_scrollme":"false","starto_ext_is_parallax_mouse":"false","starto_ext_is_infinite":"false"}'
+                                                data-widget_type="image.default"
+                                              >
+                                                <div
+                                                  class="elementor-widget-container"
+                                                >
+                                                  <div class="elementor-image">
+                                                    <img
+                                                      width="120"
+                                                      height="120"
+                                                      src="upload/wearable-technology-e1586422353974.png"
+                                                      class="attachment-large size-large"
+                                                      alt=""
+                                                      loading="lazy"
+                                                    />
+                                                  </div>
+                                                </div>
+                                              </div>
+                                            </div>
+                                          </div>
+                                        </div>
+                                        <div
+                                          class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-eb0095e"
+                                          data-id="eb0095e"
+                                          data-element_type="column"
+                                          data-settings='{"starto_ext_is_scrollme":"false","starto_ext_is_smoove":"false","starto_ext_is_parallax_mouse":"false","starto_ext_is_infinite":"false"}'
+                                        >
+                                          <div
+                                            class="elementor-column-wrap elementor-element-populated"
+                                          >
+                                            <div class="elementor-widget-wrap">
+                                              <div
+                                                class="elementor-element elementor-element-5365653 elementor-widget elementor-widget-text-editor"
+                                                data-id="5365653"
+                                                data-element_type="widget"
+                                                data-settings='{"starto_ext_is_scrollme":"false","starto_ext_is_parallax_mouse":"false","starto_ext_is_infinite":"false"}'
+                                                data-widget_type="text-editor.default"
+                                              >
+                                                <div
+                                                  class="elementor-widget-container"
+                                                >
+                                                  <div
+                                                    class="elementor-text-editor elementor-clearfix"
+                                                  >
+                                                    <div
+                                                      class="lqd-lines split-unit lqd-unit-animation-done"
+                                                    >
+                                                      <p class="p1">
+                                                        Plan academic and
+                                                        co-scholastic learning
+                                                        with smart, curriculum
+                                                        aligned tools.
+                                                      </p>
+                                                    </div>
+                                                  </div>
+                                                </div>
+                                              </div>
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </section>
+                                  <section
+                                    class="elementor-section elementor-inner-section elementor-element elementor-element-b8c37f0 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                                    data-id="b8c37f0"
+                                    data-element_type="section"
+                                  >
+                                    <div
+                                      class="elementor-container elementor-column-gap-default"
+                                    >
+                                      <div class="elementor-row">
+                                        <div
+                                          class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-05ffe1d"
+                                          data-id="05ffe1d"
+                                          data-element_type="column"
+                                          data-settings='{"starto_ext_is_scrollme":"false","starto_ext_is_smoove":"false","starto_ext_is_parallax_mouse":"false","starto_ext_is_infinite":"false"}'
+                                        >
+                                          <div
+                                            class="elementor-column-wrap elementor-element-populated"
+                                          >
+                                            <div class="elementor-widget-wrap">
+                                              <div
+                                                class="elementor-element elementor-element-77d9219 elementor-widget elementor-widget-image"
+                                                data-id="77d9219"
+                                                data-element_type="widget"
+                                                data-settings='{"starto_ext_is_scrollme":"false","starto_ext_is_parallax_mouse":"false","starto_ext_is_infinite":"false"}'
+                                                data-widget_type="image.default"
+                                              >
+                                                <div
+                                                  class="elementor-widget-container"
+                                                >
+                                                  <div class="elementor-image">
+                                                    <img
+                                                      width="120"
+                                                      height="128"
+                                                      src="upload/on-demand-service-e1586422343446.png"
+                                                      class="attachment-large size-large"
+                                                      alt=""
+                                                      loading="lazy"
+                                                    />
+                                                  </div>
+                                                </div>
+                                              </div>
+                                            </div>
+                                          </div>
+                                        </div>
+                                        <div
+                                          class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-4569886"
+                                          data-id="4569886"
+                                          data-element_type="column"
+                                          data-settings='{"starto_ext_is_scrollme":"false","starto_ext_is_smoove":"false","starto_ext_is_parallax_mouse":"false","starto_ext_is_infinite":"false"}'
+                                        >
+                                          <div
+                                            class="elementor-column-wrap elementor-element-populated"
+                                          >
+                                            <div class="elementor-widget-wrap">
+                                              <div
+                                                class="elementor-element elementor-element-d9c7bdd elementor-widget elementor-widget-text-editor"
+                                                data-id="d9c7bdd"
+                                                data-element_type="widget"
+                                                data-settings='{"starto_ext_is_scrollme":"false","starto_ext_is_parallax_mouse":"false","starto_ext_is_infinite":"false"}'
+                                                data-widget_type="text-editor.default"
+                                              >
+                                                <div
+                                                  class="elementor-widget-container"
+                                                >
+                                                  <div
+                                                    class="elementor-text-editor elementor-clearfix"
+                                                  >
+                                                    <div
+                                                      class="lqd-lines split-unit lqd-unit-animation-done"
+                                                    >
+                                                      <p class="p1">
+                                                        Streamline teaching,
+                                                        homework, assessments,
+                                                        communication and
+                                                        remediation in one
+                                                        place.
+                                                      </p>
+                                                    </div>
+                                                  </div>
+                                                </div>
+                                              </div>
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </section>
+                                  <section
+                                    class="elementor-section elementor-inner-section elementor-element elementor-element-c0a682a elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                                    data-id="c0a682a"
+                                    data-element_type="section"
+                                  >
+                                    <div
+                                      class="elementor-container elementor-column-gap-default"
+                                    >
+                                      <div class="elementor-row">
+                                        <div
+                                          class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-4bea3c0"
+                                          data-id="4bea3c0"
+                                          data-element_type="column"
+                                          data-settings='{"starto_ext_is_scrollme":"false","starto_ext_is_smoove":"false","starto_ext_is_parallax_mouse":"false","starto_ext_is_infinite":"false"}'
+                                        >
+                                          <div
+                                            class="elementor-column-wrap elementor-element-populated"
+                                          >
+                                            <div class="elementor-widget-wrap">
+                                              <div
+                                                class="elementor-element elementor-element-4814658 elementor-widget elementor-widget-image"
+                                                data-id="4814658"
+                                                data-element_type="widget"
+                                                data-settings='{"starto_ext_is_scrollme":"false","starto_ext_is_parallax_mouse":"false","starto_ext_is_infinite":"false"}'
+                                                data-widget_type="image.default"
+                                              >
+                                                <div
+                                                  class="elementor-widget-container"
+                                                >
+                                                  <div class="elementor-image">
+                                                    <img
+                                                      width="120"
+                                                      height="102"
+                                                      src="upload/autonomous-car-e1586422329380.png"
+                                                      class="attachment-large size-large"
+                                                      alt=""
+                                                      loading="lazy"
+                                                    />
+                                                  </div>
+                                                </div>
+                                              </div>
+                                            </div>
+                                          </div>
+                                        </div>
+                                        <div
+                                          class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-c8c7bf9"
+                                          data-id="c8c7bf9"
+                                          data-element_type="column"
+                                          data-settings='{"starto_ext_is_scrollme":"false","starto_ext_is_smoove":"false","starto_ext_is_parallax_mouse":"false","starto_ext_is_infinite":"false"}'
+                                        >
+                                          <div
+                                            class="elementor-column-wrap elementor-element-populated"
+                                          >
+                                            <div class="elementor-widget-wrap">
+                                              <div
+                                                class="elementor-element elementor-element-8a42861 elementor-widget elementor-widget-text-editor"
+                                                data-id="8a42861"
+                                                data-element_type="widget"
+                                                data-settings='{"starto_ext_is_scrollme":"false","starto_ext_is_parallax_mouse":"false","starto_ext_is_infinite":"false"}'
+                                                data-widget_type="text-editor.default"
+                                              >
+                                                <div
+                                                  class="elementor-widget-container"
+                                                >
+                                                  <div
+                                                    class="elementor-text-editor elementor-clearfix"
+                                                  >
+                                                    <div
+                                                      class="lqd-lines split-unit lqd-unit-animation-done"
+                                                    >
+                                                      <p class="p1">
+                                                        Keep parents informed in
+                                                        real time about
+                                                        progress, attendance,
+                                                        fees and school life.
+                                                      </p>
+                                                    </div>
+                                                  </div>
+                                                </div>
+                                              </div>
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </section>
+
+                                  <div
+                                    class="elementor-element elementor-element-6ad5410 elementor-absolute elementor-widget elementor-widget-image"
+                                    data-id="6ad5410"
+                                    data-element_type="widget"
+                                    data-settings='{"_position":"absolute","starto_ext_is_scrollme":"false","starto_ext_is_smoove":"false","starto_ext_is_parallax_mouse":"false","starto_ext_is_infinite":"false"}'
+                                    data-widget_type="image.default"
+                                  >
+                                    <div class="elementor-widget-container">
+                                      <div class="elementor-image">
+                                        <img
+                                          width="220"
+                                          height="220"
+                                          src="upload/dot_pattern-e1586412100453.png"
+                                          class="attachment-full size-full"
+                                          alt=""
+                                          loading="lazy"
+                                        />
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            <div
+                              class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-e9b5b41"
+                              data-id="e9b5b41"
+                              data-element_type="column"
+                              data-settings='{"starto_ext_is_scrollme":"false","starto_ext_is_smoove":"false","starto_ext_is_parallax_mouse":"false","starto_ext_is_infinite":"false"}'
+                            >
+                              <div
+                                class="elementor-column-wrap elementor-element-populated"
+                              >
+                                <div class="elementor-widget-wrap">
+                                  <div
+                                    class="elementor-element elementor-element-caf821a elementor-absolute elementor-hidden-phone elementor-widget elementor-widget-image"
+                                    data-id="caf821a"
+                                    data-element_type="widget"
+                                    data-settings='{"_position":"absolute","starto_ext_is_scrollme":"false","starto_ext_is_smoove":"false","starto_ext_is_parallax_mouse":"false","starto_ext_is_infinite":"false"}'
+                                    data-widget_type="image.default"
+                                  >
+                                    <div class="elementor-widget-container">
+                                      <div class="elementor-image">
+                                        <img
+                                          width="358"
+                                          height="358"
+                                          src="upload/yellow-circle.png"
+                                          class="attachment-full size-full"
+                                          alt=""
+                                          loading="lazy"
+                                        />
+                                      </div>
+                                    </div>
+                                  </div>
+                                  <div
+                                    class="elementor-element elementor-element-2abdfd3 elementor-absolute elementor-hidden-phone elementor-widget elementor-widget-image"
+                                    data-id="2abdfd3"
+                                    data-element_type="widget"
+                                    data-settings='{"_position":"absolute","starto_ext_is_scrollme":"false","starto_ext_is_smoove":"false","starto_ext_is_parallax_mouse":"false","starto_ext_is_infinite":"false"}'
+                                    data-widget_type="image.default"
+                                  >
+                                    <div class="elementor-widget-container">
+                                      <div class="elementor-image">
+                                        <img
+                                          width="520"
+                                          height="520"
+                                          src="upload/peach-circle.png"
+                                          class="attachment-full size-full"
+                                          alt=""
+                                          loading="lazy"
+                                        />
+                                      </div>
+                                    </div>
+                                  </div>
+                                  <div
+                                    class="elementor-element elementor-element-6de6e6d mobile_static elementor-absolute elementor-widget elementor-widget-image"
+                                    data-id="6de6e6d"
+                                    data-element_type="widget"
+                                    data-settings='{"_position":"absolute","starto_ext_is_smoove":"true","starto_ext_smoove_disable":"769","starto_ext_smoove_duration":1200,"starto_ext_smoove_translatey":{"unit":"px","size":35,"sizes":[]},"starto_ext_is_scrollme":"false","starto_ext_smoove_scalex":{"unit":"px","size":1,"sizes":[]},"starto_ext_smoove_scaley":{"unit":"px","size":1,"sizes":[]},"starto_ext_smoove_rotatex":{"unit":"px","size":0,"sizes":[]},"starto_ext_smoove_rotatey":{"unit":"px","size":0,"sizes":[]},"starto_ext_smoove_rotatez":{"unit":"px","size":0,"sizes":[]},"starto_ext_smoove_translatex":{"unit":"px","size":0,"sizes":[]},"starto_ext_smoove_translatez":{"unit":"px","size":0,"sizes":[]},"starto_ext_smoove_skewx":{"unit":"px","size":0,"sizes":[]},"starto_ext_smoove_skewy":{"unit":"px","size":0,"sizes":[]},"starto_ext_smoove_perspective":{"unit":"px","size":1000,"sizes":[]},"starto_ext_is_parallax_mouse":"false","starto_ext_is_infinite":"false"}'
+                                    data-widget_type="image.default"
+                                  >
+                                    <div class="elementor-widget-container">
+                                      <div class="elementor-image">
+                                        <img
+                                          width="350"
+                                          height="476"
+                                          src="upload/User-e1586416725875.png"
+                                          class="attachment-full size-full"
+                                          alt=""
+                                          loading="lazy"
+                                        />
+                                      </div>
+                                    </div>
+                                  </div>
+                                  <div
+                                    class="elementor-element elementor-element-668141c mobile_static elementor-absolute elementor-widget elementor-widget-image"
+                                    data-id="668141c"
+                                    data-element_type="widget"
+                                    data-settings='{"_position":"absolute","starto_ext_is_smoove":"true","starto_ext_smoove_disable":"769","starto_ext_smoove_duration":1200,"starto_ext_smoove_translatey":{"unit":"px","size":35,"sizes":[]},"starto_ext_is_scrollme":"false","starto_ext_smoove_scalex":{"unit":"px","size":1,"sizes":[]},"starto_ext_smoove_scaley":{"unit":"px","size":1,"sizes":[]},"starto_ext_smoove_rotatex":{"unit":"px","size":0,"sizes":[]},"starto_ext_smoove_rotatey":{"unit":"px","size":0,"sizes":[]},"starto_ext_smoove_rotatez":{"unit":"px","size":0,"sizes":[]},"starto_ext_smoove_translatex":{"unit":"px","size":0,"sizes":[]},"starto_ext_smoove_translatez":{"unit":"px","size":0,"sizes":[]},"starto_ext_smoove_skewx":{"unit":"px","size":0,"sizes":[]},"starto_ext_smoove_skewy":{"unit":"px","size":0,"sizes":[]},"starto_ext_smoove_perspective":{"unit":"px","size":1000,"sizes":[]},"starto_ext_is_parallax_mouse":"false","starto_ext_is_infinite":"false"}'
+                                    data-widget_type="image.default"
+                                  >
+                                    <div class="elementor-widget-container">
+                                      <div class="elementor-image">
+                                        <img
+                                          width="350"
+                                          height="476"
+                                          src="upload/LevelDots-e1586417107379.png"
+                                          class="attachment-full size-full"
+                                          alt=""
+                                          loading="lazy"
+                                        />
+                                      </div>
+                                    </div>
+                                  </div>
+                                  <div
+                                    class="elementor-element elementor-element-656ef4d mobile_static elementor-absolute elementor-widget elementor-widget-image"
+                                    data-id="656ef4d"
+                                    data-element_type="widget"
+                                    data-settings='{"_position":"absolute","starto_ext_is_smoove":"true","starto_ext_smoove_disable":"769","starto_ext_smoove_duration":1200,"starto_ext_smoove_translatey":{"unit":"px","size":35,"sizes":[]},"starto_ext_is_scrollme":"false","starto_ext_smoove_scalex":{"unit":"px","size":1,"sizes":[]},"starto_ext_smoove_scaley":{"unit":"px","size":1,"sizes":[]},"starto_ext_smoove_rotatex":{"unit":"px","size":0,"sizes":[]},"starto_ext_smoove_rotatey":{"unit":"px","size":0,"sizes":[]},"starto_ext_smoove_rotatez":{"unit":"px","size":0,"sizes":[]},"starto_ext_smoove_translatex":{"unit":"px","size":0,"sizes":[]},"starto_ext_smoove_translatez":{"unit":"px","size":0,"sizes":[]},"starto_ext_smoove_skewx":{"unit":"px","size":0,"sizes":[]},"starto_ext_smoove_skewy":{"unit":"px","size":0,"sizes":[]},"starto_ext_smoove_perspective":{"unit":"px","size":1000,"sizes":[]},"starto_ext_is_parallax_mouse":"false","starto_ext_is_infinite":"false"}'
+                                    data-widget_type="image.default"
+                                  >
+                                    <div class="elementor-widget-container">
+                                      <div class="elementor-image">
+                                        <img
+                                          width="350"
+                                          height="236"
+                                          src="upload/MonthlyData-e1586417234547.png"
+                                          class="attachment-full size-full"
+                                          alt=""
+                                          loading="lazy"
+                                        />
+                                      </div>
+                                    </div>
+                                  </div>
+                                  <div
+                                    class="elementor-element elementor-element-7ddd10f mobile_static elementor-absolute elementor-widget elementor-widget-image"
+                                    data-id="7ddd10f"
+                                    data-element_type="widget"
+                                    data-settings='{"_position":"absolute","starto_ext_is_smoove":"true","starto_ext_smoove_disable":"769","starto_ext_smoove_duration":1600,"starto_ext_smoove_translatey":{"unit":"px","size":35,"sizes":[]},"starto_ext_is_scrollme":"false","starto_ext_smoove_scalex":{"unit":"px","size":1,"sizes":[]},"starto_ext_smoove_scaley":{"unit":"px","size":1,"sizes":[]},"starto_ext_smoove_rotatex":{"unit":"px","size":0,"sizes":[]},"starto_ext_smoove_rotatey":{"unit":"px","size":0,"sizes":[]},"starto_ext_smoove_rotatez":{"unit":"px","size":0,"sizes":[]},"starto_ext_smoove_translatex":{"unit":"px","size":0,"sizes":[]},"starto_ext_smoove_translatez":{"unit":"px","size":0,"sizes":[]},"starto_ext_smoove_skewx":{"unit":"px","size":0,"sizes":[]},"starto_ext_smoove_skewy":{"unit":"px","size":0,"sizes":[]},"starto_ext_smoove_perspective":{"unit":"px","size":1000,"sizes":[]},"starto_ext_is_parallax_mouse":"false","starto_ext_is_infinite":"false"}'
+                                    data-widget_type="image.default"
+                                  >
+                                    <div class="elementor-widget-container">
+                                      <div class="elementor-image">
+                                        <img
+                                          width="350"
+                                          height="476"
+                                          src="upload/Tasks-e1586416994402.png"
+                                          class="attachment-full size-full"
+                                          alt=""
+                                          loading="lazy"
+                                        />
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </section>
+
