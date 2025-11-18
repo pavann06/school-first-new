@@ -2874,3 +2874,43 @@
 
 </body>
 </html>
+
+
+
+
+
+
+
+
+    <div
+                                    class="elementor-element elementor-element-a1d06cc elementor-widget__width-inherit elementor-absolute elementor-widget elementor-widget-heading"
+                                    data-id="a1d06cc"
+                                    data-element_type="widget"
+                                    data-settings='{"starto_ext_is_scrollme":"true","starto_ext_scrollme_translatex":{"unit":"px","size":200,"sizes":[]},"_position":"absolute","starto_ext_scrollme_disable":"mobile","starto_ext_scrollme_smoothness":{"unit":"px","size":30,"sizes":[]},"starto_ext_scrollme_scalex":{"unit":"px","size":1,"sizes":[]},"starto_ext_scrollme_scaley":{"unit":"px","size":1,"sizes":[]},"starto_ext_scrollme_scalez":{"unit":"px","size":1,"sizes":[]},"starto_ext_scrollme_rotatex":{"unit":"px","size":0,"sizes":[]},"starto_ext_scrollme_rotatey":{"unit":"px","size":0,"sizes":[]},"starto_ext_scrollme_rotatez":{"unit":"px","size":0,"sizes":[]},"starto_ext_scrollme_translatey":{"unit":"px","size":0,"sizes":[]},"starto_ext_scrollme_translatez":{"unit":"px","size":0,"sizes":[]},"starto_ext_is_smoove":"false","starto_ext_is_parallax_mouse":"false","starto_ext_is_infinite":"false"}'
+                                    data-widget_type="heading.default"
+                                  >
+                                    <div class="elementor-widget-container">
+                                      <h2
+                                        class="elementor-heading-title elementor-size-default"
+                                      >
+                                        Values
+                                      </h2>
+                                    </div>
+                                  </div>
+
+
+								    <div
+                                    class="elementor-element elementor-element-a1d06cc elementor-widget__width-inherit elementor-absolute elementor-widget elementor-widget-heading"
+                                    data-id="a1d06cc"
+                                    data-element_type="widget"
+                                    data-settings='{"starto_ext_is_scrollme":"true","starto_ext_scrollme_translatex":{"unit":"px","size":200,"sizes":[]},"_position":"absolute","starto_ext_scrollme_disable":"mobile","starto_ext_scrollme_smoothness":{"unit":"px","size":30,"sizes":[]},"starto_ext_scrollme_scalex":{"unit":"px","size":1,"sizes":[]},"starto_ext_scrollme_scaley":{"unit":"px","size":1,"sizes":[]},"starto_ext_scrollme_scalez":{"unit":"px","size":1,"sizes":[]},"starto_ext_scrollme_rotatex":{"unit":"px","size":0,"sizes":[]},"starto_ext_scrollme_rotatey":{"unit":"px","size":0,"sizes":[]},"starto_ext_scrollme_rotatez":{"unit":"px","size":0,"sizes":[]},"starto_ext_scrollme_translatey":{"unit":"px","size":0,"sizes":[]},"starto_ext_scrollme_translatez":{"unit":"px","size":0,"sizes":[]},"starto_ext_is_smoove":"false","starto_ext_is_parallax_mouse":"false","starto_ext_is_infinite":"false"}'
+                                    data-widget_type="heading.default"
+                                  >
+                                    <div class="elementor-widget-container">
+                                      <h2
+                                        class="elementor-heading-title elementor-size-default"
+                                      >
+                                        Values
+                                      </h2>
+                                    </div>
+                                  </div>
