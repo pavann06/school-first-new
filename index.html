@@ -5267,136 +5267,161 @@
                         </div>
                       </section> -->
 
-                      <section
-                        class="elementor-section elementor-top-section"
-                        style="
-                          padding: 100px 0; /* increased height */
-                          background: #faf4ef;
-                          position: relative;
-                          overflow: hidden;
-                          max-width: 2000px; /* increased width */
-                          margin: 80px auto; /* space between sections */
-                        "
-                      >
-                        <div
-                          class="elementor-container elementor-column-gap-default"
-                        >
-                          <div class="elementor-row">
-                            <!-- LEFT SIDE -->
-                            <div
-                              class="elementor-column elementor-col-50 elementor-top-column"
-                            >
-                              <div
-                                class="elementor-widget-wrap"
-                                style="
-                                  position: relative;
-                                  margin-left: -30px; /* slightly wider left shift */
-                                  margin-top: -60px; /* more height spacing */
-                                "
-                              >
-                                <!-- PASSION BACKGROUND TEXT -->
-                                <h1
-                                  style="
-                                    position: absolute;
-                                    padding-top: 380px; /* push text lower */
-                                    left: 0;
-                                    font-size: 200px; /* bigger background text */
-                                    font-weight: 700;
-                                    color: rgba(0, 0, 0, 0.05);
-                                    pointer-events: none;
-                                    user-select: none;
-                                  "
-                                >
-                                  Passion
-                                </h1>
 
-                                <!-- MAIN IMAGE -->
-                                <img
-                                  src="upload/Dots-e1586433561566.png"
-                                  style="
-                                    width: 100%;
-                                    max-width: 650px; /* increased width */
-                                    height: auto;
-                                    display: block;
-                                    border-radius: 10px;
-                                  "
-                                />
 
-                                <!-- SMALL IMAGE OVERLAP -->
-                                <img
-                                  src="upload/GraphShape-e1586433581960.png"
-                                  style="
-                                    width: 100%;
-                                    max-width: 500px; /* increased size */
-                                    height: auto;
-                                    position: absolute;
-                                    bottom: 60px; /* more spacing */
-                                    left: -30px; /* more left offset */
-                                  "
-                                />
-                              </div>
-                            </div>
 
-                            <!-- RIGHT SIDE -->
-                            <div
-                              class="elementor-column elementor-col-50 elementor-top-column"
-                            >
-                              <div
-                                class="elementor-widget-wrap"
-                                style="
-                                  padding-left: 60px; /* more spacing on right */
-                                  padding-right: 40px; /* optional extra padding */
-                                "
-                              >
-                                <h2
-                                  style="
-                                    color: #0b569a;
-                                    font-size: 52px; /* bigger heading */
-                                    font-weight: 700;
-                                    line-height: 1.2;
-                                  "
-                                >
-                                  What is School First?
-                                </h2>
 
-                                <p
-                                  style="
-                                    font-size: 20px; /* larger text */
-                                    line-height: 32px;
-                                    margin-top: 25px;
-                                    color: #333;
-                                  "
-                                >
-                                  SchoolFirst is an AI and neuroscience-powered
-                                  platform that helps teachers teach better,
-                                  students learn better, and stay truly
-                                  involved. It brings planning, teaching,
-                                  assessment, communication, and analytics
-                                  together so schools can focus on what matters
-                                  most – learning.
-                                </p>
 
-                                <a
-                                  href="about-2.html"
-                                  style="
-                                    display: inline-block;
-                                    margin-top: 40px; /* more space above button */
-                                    background: #0b569a;
-                                    color: #fff;
-                                    padding: 18px 50px; /* bigger button */
-                                    font-size: 22px;
-                                    font-weight: 700;
-                                    border-radius: 40px;
-                                    text-decoration: none;
-                                  "
-                                >
-                                  Schedule Demo
-                                </a>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </section>
+
+
+
+
+
+
+                     <section
+  class="elementor-section elementor-top-section section-schoolfirst"
+  style="
+    padding: 100px 0;
+    background: #faf4ef;
+    position: relative;
+    overflow: hidden;
+    max-width: 2000px;
+    margin: 80px auto;
+  "
+>
+  <style>
+    /* Desktop large screens */
+
+      .section-schoolfirst a {
+    display: inline-block;
+    margin-top: 40px;
+    background: #0b569a;
+    color: #fff;
+    padding: 18px 50px;
+    font-size: 22px;
+    font-weight: 700;
+    border-radius: 40px;
+    text-decoration: none;
+    transition: all 0.3s ease; /* smooth hover effect */
+  }
+
+  .section-schoolfirst a:hover {
+    background: #fff;
+    color: #000;
+  }
+    .section-schoolfirst h1 {
+      font-size: 200px;
+      left: 0;
+      padding-top: 380px;
+      position: absolute;
+      color: rgba(0,0,0,0.05);
+      pointer-events: none;
+      user-select: none;
+    }
+    .section-schoolfirst h2 {
+      font-size: 52px;
+      line-height: 1.2;
+    }
+    .section-schoolfirst p {
+      font-size: 20px;
+      line-height: 32px;
+    }
+    .section-schoolfirst a {
+      padding: 18px 50px;
+      font-size: 22px;
+    }
+    .section-schoolfirst img {
+      max-width: 100%;
+    }
+
+    /* Tablets and below */
+    @media (max-width: 1023px) {
+      .section-schoolfirst .elementor-row {
+        display: flex;
+        flex-direction: column;
+      }
+      .section-schoolfirst .elementor-column {
+        width: 100% !important;
+        margin: 0 !important;
+      }
+
+      /* Stack content: heading, para, button, main image, small image */
+      .section-schoolfirst .elementor-column:first-child {
+        order: 2; /* move left column (images) below right column content */
+      }
+      .section-schoolfirst .elementor-column:last-child {
+        order: 1; /* move right column content on top */
+      }
+
+      .section-schoolfirst h1 {
+        font-size: 90px;
+        padding-top: 0;
+        text-align: center;
+        position: relative;
+      }
+      .section-schoolfirst h2 {
+        font-size: 32px;
+        text-align: center;
+      }
+      .section-schoolfirst p {
+        font-size: 15px;
+        line-height: 24px;
+        text-align: center;
+      }
+      .section-schoolfirst a {
+        display: block;
+        margin: 20px auto 0;
+        padding: 12px 30px;
+        font-size: 16px;
+        text-align: center;
+      }
+      .section-schoolfirst img {
+        position: static !important;
+        margin: 20px auto;
+        display: block;
+      }
+    }
+
+    /* Mobile */
+    @media (max-width: 767px) {
+      .section-schoolfirst h1 { font-size: 60px; }
+      .section-schoolfirst h2 { font-size: 28px; }
+      .section-schoolfirst p { font-size: 14px; line-height: 22px; }
+    }
+  </style>
+
+  <div class="elementor-container elementor-column-gap-default">
+    <div class="elementor-row">
+      <!-- LEFT SIDE: IMAGES -->
+      <div class="elementor-column elementor-col-50 elementor-top-column">
+        <div class="elementor-widget-wrap" style="position: relative; margin-left: -30px; margin-top: -60px;">
+          <!-- PASSION BACKGROUND TEXT -->
+          <h1>Passion</h1>
+
+          <!-- MAIN IMAGE -->
+          <img src="upload/Dots-e1586433561566.png" style="width: 100%; max-width: 650px; height: auto; display: block; border-radius: 10px;" />
+
+          <!-- SMALL IMAGE OVERLAP -->
+          <img src="upload/GraphShape-e1586433581960.png" style="width: 100%; max-width: 500px; height: auto; position: absolute; bottom: 60px; left: -30px;" />
+        </div>
+      </div>
+
+      <!-- RIGHT SIDE: CONTENT -->
+      <div class="elementor-column elementor-col-50 elementor-top-column">
+        <div class="elementor-widget-wrap" style="padding-left: 60px; padding-right: 40px;">
+          <h2>What is School First?</h2>
+          <p>
+            SchoolFirst is an AI and neuroscience-powered platform that helps teachers teach better,
+            students learn better, and stay truly involved. It brings planning, teaching, assessment,
+            communication, and analytics together so schools can focus on what matters most – learning.
+          </p>
+          <a href="about-2.html">Schedule Demo</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
 
                       <section
                         class="elementor-section elementor-top-section elementor-element elementor-element-a58bced elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default"
