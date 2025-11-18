@@ -5754,6 +5754,189 @@
 
 
 
+<!-- 
+
+                      <section class="why-schoolfirst-section" style="padding: 120px 40px; background: #fff; max-width: 1400px; margin: 0 auto;">
+ 
+  <div style="margin-bottom: 80px;">
+    <h6 style="font-size: 14px; font-weight: 600; text-transform: uppercase; letter-spacing: 1.5px; color: #666; margin: 0;">
+      In it for the long haul
+    </h6>
+    <h1 style="font-size: 52px; font-weight: 800; margin: 16px 0 0; line-height: 1.1;">
+      Why SchoolFirst Exists.
+    </h1>
+  </div>
+
+  
+  <div style="display: flex; gap: 80px; align-items: flex-start; flex-wrap: wrap;">
+    
+    
+    <div style="flex: 2; min-width: 300px;">
+      <div style="
+        background: #f5f5f5;
+        padding: 50px 45px;
+        border-radius: 8px;
+        box-shadow: 0 20px 40px rgba(0,0,0,0.07);
+        position: relative;
+        top: -20px;                  /* ← this creates the exact 'little float' you wanted */
+        font-size: 22px;
+        line-height: 1.65;
+        color: #333;
+      ">
+        <div style="
+          position: absolute;
+          top: -30px;
+          left: 40px;
+          font-size: 140px;
+          color: #e0e0e0;
+          font-family: Georgia, serif;
+          line-height: 1;
+        ">“</div>
+
+        SchoolFirst closes the gap between how students actually learn and how schools are forced to operate. 
+        By combining neuroscience, AI and deep classroom understanding it replaces fragmented systems with one 
+        unified experience for leaders, teachers, parents and students. When everyone sees the same picture 
+        learning becomes clearer, decisions become wiser and futures become brighter. ---
+      </div>
+
+      <h5 style="margin: 40px 0 0; font-size: 19px; font-weight: 600; color: #222;">
+        Jennifer Hansen
+      </h5>
+    </div>
+
+    
+    <div style="flex: 1; min-width: 300px;">
+      <img src="upload/beautiful-young-woman-sitting-on-bed-working-home-PRB7JFX-681x1024.jpg" 
+           alt="Jennifer Hansen" 
+           width="681" height="1024" 
+           style="width: 100%; height: auto; border-radius: 4px; display: block;">
+    </div>
+  </div>
+</section>
+
+ -->
+
+
+ <section class="why-schoolfirst-section" style="padding: 120px 40px; background: #fff; max-width: 1400px; margin: 0 auto;">
+
+  <!-- Animation + Responsive CSS INSIDE SECTION -->
+  <style>
+    /* Floating animation */
+    @keyframes floatUpDown {
+      0% { transform: translateY(0); }
+      50% { transform: translateY(-25px); }
+      100% { transform: translateY(0); }
+    }
+
+    .why-content-row {
+      display: flex;
+      gap: 80px;
+      align-items: flex-start;
+      flex-wrap: wrap;
+    }
+
+    .why-floating-img {
+      animation: floatUpDown 4s ease-in-out infinite;
+    }
+
+    /* Responsive */
+    @media (max-width: 1024px) {
+      .why-schoolfirst-section {
+        padding: 80px 30px !important;
+      }
+      .why-content-row {
+        gap: 50px;
+      }
+    }
+
+    @media (max-width: 768px) {
+      .why-content-row {
+        flex-direction: column-reverse;
+      }
+      .why-schoolfirst-section h1 {
+        font-size: 38px !important;
+      }
+    }
+
+    @media (max-width: 480px) {
+      .why-schoolfirst-section {
+        padding: 60px 20px !important;
+      }
+      .why-schoolfirst-section h1 {
+        font-size: 32px !important;
+      }
+    }
+  </style>
+
+  <!-- Subtitle + Main Title -->
+  <div style="margin-bottom: 80px;">
+    <h6 style="font-size: 14px; font-weight: 600; text-transform: uppercase; letter-spacing: 1.5px; color: #666; margin: 0;">
+      In it for the long haul
+    </h6>
+    <h1 style="font-size: 52px; font-weight: 800; margin: 16px 0 0; line-height: 1.1;">
+      Why SchoolFirst Exists.
+    </h1>
+  </div>
+
+  <!-- Content Row -->
+  <div class="why-content-row">
+    
+    <!-- Left: Quote -->
+    <div style="flex: 2; min-width: 300px;">
+      <div style="
+        background: #f5f5f5;
+        padding: 50px 45px;
+        border-radius: 8px;
+        box-shadow: 0 20px 40px rgba(0,0,0,0.07);
+        position: relative;
+        top: -20px;
+        font-size: 22px;
+        line-height: 1.65;
+        color: #333;
+      ">
+        <div style="
+          position: absolute;
+          top: -30px;
+          left: 40px;
+          font-size: 140px;
+          color: #e0e0e0;
+          font-family: Georgia, serif;
+          line-height: 1;
+        ">“</div>
+
+        SchoolFirst closes the gap between how students actually learn and how schools are forced to operate.
+        By combining neuroscience, AI and deep classroom understanding it replaces fragmented systems with one
+        unified experience for leaders, teachers, parents and students. When everyone sees the same picture
+        learning becomes clearer, decisions become wiser and futures become brighter. ---
+      </div>
+
+      <h5 style="margin: 40px 0 0; font-size: 19px; font-weight: 600; color: #222;">
+        Jennifer Hansen
+      </h5>
+    </div>
+
+    <!-- Right: Floating Image -->
+    <div style="flex: 1; min-width: 300px;">
+      <img 
+        src="upload/beautiful-young-woman-sitting-on-bed-working-home-PRB7JFX-681x1024.jpg" 
+        alt="Jennifer Hansen" 
+        width="681" height="1024" 
+        class="why-floating-img"
+        style="width: 100%; height: auto; border-radius: 4px; display: block;"
+      >
+    </div>
+  </div>
+</section>
+
+
+
+
+
+					  
+
+
+
+
 
 
 
@@ -5795,7 +5978,7 @@
                                       <h2
                                         class="elementor-heading-title elementor-size-default"
                                       >
-                                        Design used to be the seasoning
+                                        For School Leaders & Management
                                       </h2>
                                     </div>
                                   </div>
@@ -5812,11 +5995,7 @@
                                         class="elementor-text-editor elementor-clearfix"
                                       >
                                         <p class="p1">
-                                          From the dress you’re wearing to the
-                                          smartphone you’re holding, it’s
-                                          design. If you think good design is
-                                          expensive, you should look at the cost
-                                          of bad design.
+                                        Leaders see the whole school and its brand at a glance. Lead with visibility, not guesswork – and let your impact be seen
                                         </p>
                                       </div>
                                     </div>
@@ -5847,7 +6026,7 @@
                                               ></i>
                                             </span>
                                             <span class="elementor-button-text"
-                                              >Purchase Starto Theme</span
+                                              >Learn More</span
                                             >
                                           </span>
                                         </a>
@@ -5895,273 +6074,28 @@
                         </div>
                       </section>
 
-                      <section
-                        class="elementor-section elementor-top-section elementor-element elementor-element-a404195 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                        data-id="a404195"
-                        data-element_type="section"
-                        data-settings='{"stretch_section":"section-stretched"}'
-                      >
-                        <div
-                          class="elementor-container elementor-column-gap-default"
-                        >
-                          <div class="elementor-row">
-                            <div
-                              class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-f56f291"
-                              data-id="f56f291"
-                              data-element_type="column"
-                              data-settings='{"starto_ext_is_scrollme":"false","starto_ext_is_smoove":"false","starto_ext_is_parallax_mouse":"false","starto_ext_is_infinite":"false"}'
-                            >
-                              <div
-                                class="elementor-column-wrap elementor-element-populated"
-                              >
-                                <div class="elementor-widget-wrap">
-                                  <div
-                                    class="elementor-element elementor-element-9d7a019 elementor-widget__width-inherit elementor-widget-tablet__width-initial elementor-absolute mobile_static elementor-widget elementor-widget-image"
-                                    data-id="9d7a019"
-                                    data-element_type="widget"
-                                    data-settings='{"starto_ext_is_smoove":"true","starto_ext_smoove_disable":"769","starto_ext_smoove_duration":800,"starto_ext_smoove_translatex":{"unit":"px","size":100,"sizes":[]},"_position":"absolute","starto_ext_is_scrollme":"false","starto_ext_smoove_scalex":{"unit":"px","size":1,"sizes":[]},"starto_ext_smoove_scaley":{"unit":"px","size":1,"sizes":[]},"starto_ext_smoove_rotatex":{"unit":"px","size":0,"sizes":[]},"starto_ext_smoove_rotatey":{"unit":"px","size":0,"sizes":[]},"starto_ext_smoove_rotatez":{"unit":"px","size":0,"sizes":[]},"starto_ext_smoove_translatey":{"unit":"px","size":0,"sizes":[]},"starto_ext_smoove_translatez":{"unit":"px","size":0,"sizes":[]},"starto_ext_smoove_skewx":{"unit":"px","size":0,"sizes":[]},"starto_ext_smoove_skewy":{"unit":"px","size":0,"sizes":[]},"starto_ext_smoove_perspective":{"unit":"px","size":1000,"sizes":[]},"starto_ext_is_parallax_mouse":"false","starto_ext_is_infinite":"false"}'
-                                    data-widget_type="image.default"
-                                  >
-                                    <div class="elementor-widget-container">
-                                      <div class="elementor-image">
-                                        <img
-                                          width="800"
-                                          height="597"
-                                          src="upload/home1-ui5-e1586410030222.png"
-                                          class="attachment-full size-full"
-                                          alt=""
-                                          loading="lazy"
-                                        />
-                                      </div>
-                                    </div>
-                                  </div>
-                                  <div
-                                    class="elementor-element elementor-element-075d0cd elementor-widget__width-initial elementor-absolute mobile_static elementor-widget-mobile__width-inherit elementor-widget elementor-widget-image"
-                                    data-id="075d0cd"
-                                    data-element_type="widget"
-                                    data-settings='{"starto_ext_is_smoove":"true","starto_ext_smoove_disable":"769","starto_ext_smoove_duration":800,"starto_ext_smoove_scalex":{"unit":"px","size":0.59999999999999997779553950749686919152736663818359375,"sizes":[]},"starto_ext_smoove_scaley":{"unit":"px","size":0.59999999999999997779553950749686919152736663818359375,"sizes":[]},"starto_ext_smoove_translatey":{"unit":"px","size":40,"sizes":[]},"_position":"absolute","starto_ext_is_infinite":"true","starto_ext_is_scrollme":"false","starto_ext_smoove_rotatex":{"unit":"px","size":0,"sizes":[]},"starto_ext_smoove_rotatey":{"unit":"px","size":0,"sizes":[]},"starto_ext_smoove_rotatez":{"unit":"px","size":0,"sizes":[]},"starto_ext_smoove_translatex":{"unit":"px","size":0,"sizes":[]},"starto_ext_smoove_translatez":{"unit":"px","size":0,"sizes":[]},"starto_ext_smoove_skewx":{"unit":"px","size":0,"sizes":[]},"starto_ext_smoove_skewy":{"unit":"px","size":0,"sizes":[]},"starto_ext_smoove_perspective":{"unit":"px","size":1000,"sizes":[]},"starto_ext_is_parallax_mouse":"false","starto_ext_infinite_animation":"if_bounce","starto_ext_infinite_easing":"0.250, 0.250, 0.750, 0.750","starto_ext_infinite_duration":4}'
-                                    data-widget_type="image.default"
-                                  >
-                                    <div class="elementor-widget-container">
-                                      <div class="elementor-image">
-                                        <img
-                                          width="450"
-                                          height="322"
-                                          src="upload/home1-ui4-e1586412626291.png"
-                                          class="attachment-full size-full"
-                                          alt=""
-                                          loading="lazy"
-                                        />
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                            <div
-                              class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-7625fdd"
-                              data-id="7625fdd"
-                              data-element_type="column"
-                              data-settings='{"starto_ext_is_scrollme":"false","starto_ext_is_smoove":"false","starto_ext_is_parallax_mouse":"false","starto_ext_is_infinite":"false"}'
-                            >
-                              <div
-                                class="elementor-column-wrap elementor-element-populated"
-                              >
-                                <div class="elementor-widget-wrap">
-                                  <div
-                                    class="elementor-element elementor-element-6862b23 elementor-absolute elementor-widget elementor-widget-image"
-                                    data-id="6862b23"
-                                    data-element_type="widget"
-                                    data-settings='{"_position":"absolute","starto_ext_is_scrollme":"false","starto_ext_is_smoove":"false","starto_ext_is_parallax_mouse":"false","starto_ext_is_infinite":"false"}'
-                                    data-widget_type="image.default"
-                                  >
-                                    <div class="elementor-widget-container">
-                                      <div class="elementor-image">
-                                        <img
-                                          width="220"
-                                          height="220"
-                                          src="upload/dot_pattern-e1586412100453.png"
-                                          class="attachment-full size-full"
-                                          alt=""
-                                          loading="lazy"
-                                        />
-                                      </div>
-                                    </div>
-                                  </div>
-                                  <div
-                                    class="elementor-element elementor-element-294fa46 elementor-widget elementor-widget-heading"
-                                    data-id="294fa46"
-                                    data-element_type="widget"
-                                    data-settings='{"starto_ext_is_scrollme":"false","starto_ext_is_parallax_mouse":"false","starto_ext_is_infinite":"false"}'
-                                    data-widget_type="heading.default"
-                                  >
-                                    <div class="elementor-widget-container">
-                                      <h2
-                                        class="elementor-heading-title elementor-size-default"
-                                      >
-                                        Rule of thumb for UX
-                                      </h2>
-                                    </div>
-                                  </div>
-                                  <div
-                                    class="elementor-element elementor-element-ee666d5 elementor-widget elementor-widget-accordion"
-                                    data-id="ee666d5"
-                                    data-element_type="widget"
-                                    data-settings='{"starto_ext_is_scrollme":"false","starto_ext_is_smoove":"false","starto_ext_is_parallax_mouse":"false","starto_ext_is_infinite":"false"}'
-                                    data-widget_type="accordion.default"
-                                  >
-                                    <div class="elementor-widget-container">
-                                      <div
-                                        class="elementor-accordion"
-                                        role="tablist"
-                                      >
-                                        <div class="elementor-accordion-item">
-                                          <div
-                                            id="elementor-tab-title-2491"
-                                            class="elementor-tab-title"
-                                            data-tab="1"
-                                            role="tab"
-                                            aria-controls="elementor-tab-content-2491"
-                                          >
-                                            <span
-                                              class="elementor-accordion-icon elementor-accordion-icon-right"
-                                              aria-hidden="true"
-                                            >
-                                              <span
-                                                class="elementor-accordion-icon-closed"
-                                                ><i
-                                                  class="fas fa-angle-down"
-                                                ></i
-                                              ></span>
-                                              <span
-                                                class="elementor-accordion-icon-opened"
-                                                ><i class="fas fa-angle-up"></i
-                                              ></span>
-                                            </span>
-                                            <a
-                                              class="elementor-accordion-title"
-                                              href=""
-                                              >Let’s collaborate</a
-                                            >
-                                          </div>
-                                          <div
-                                            id="elementor-tab-content-2491"
-                                            class="elementor-tab-content elementor-clearfix"
-                                            data-tab="1"
-                                            role="tabpanel"
-                                            aria-labelledby="elementor-tab-title-2491"
-                                          >
-                                            <p>
-                                              Duis consectetur feugiat auctor.
-                                              Morbi nec enim luctus, feugiat
-                                              arcu id, ultricies ante. Duis vel
-                                              massa eleifend, porta est non,
-                                              feugiat metus. Cras ante massa,
-                                              tincidunt nec lobortis quis
-                                            </p>
-                                          </div>
-                                        </div>
-                                        <div class="elementor-accordion-item">
-                                          <div
-                                            id="elementor-tab-title-2492"
-                                            class="elementor-tab-title"
-                                            data-tab="2"
-                                            role="tab"
-                                            aria-controls="elementor-tab-content-2492"
-                                          >
-                                            <span
-                                              class="elementor-accordion-icon elementor-accordion-icon-right"
-                                              aria-hidden="true"
-                                            >
-                                              <span
-                                                class="elementor-accordion-icon-closed"
-                                                ><i
-                                                  class="fas fa-angle-down"
-                                                ></i
-                                              ></span>
-                                              <span
-                                                class="elementor-accordion-icon-opened"
-                                                ><i class="fas fa-angle-up"></i
-                                              ></span>
-                                            </span>
-                                            <a
-                                              class="elementor-accordion-title"
-                                              href=""
-                                              >A satisfied customer</a
-                                            >
-                                          </div>
-                                          <div
-                                            id="elementor-tab-content-2492"
-                                            class="elementor-tab-content elementor-clearfix"
-                                            data-tab="2"
-                                            role="tabpanel"
-                                            aria-labelledby="elementor-tab-title-2492"
-                                          >
-                                            <p>
-                                              Duis consectetur feugiat auctor.
-                                              Morbi nec enim luctus, feugiat
-                                              arcu id, ultricies ante. Duis vel
-                                              massa eleifend, porta est non,
-                                              feugiat metus. Cras ante massa,
-                                              tincidunt nec lobortis quis
-                                            </p>
-                                          </div>
-                                        </div>
-                                        <div class="elementor-accordion-item">
-                                          <div
-                                            id="elementor-tab-title-2493"
-                                            class="elementor-tab-title"
-                                            data-tab="3"
-                                            role="tab"
-                                            aria-controls="elementor-tab-content-2493"
-                                          >
-                                            <span
-                                              class="elementor-accordion-icon elementor-accordion-icon-right"
-                                              aria-hidden="true"
-                                            >
-                                              <span
-                                                class="elementor-accordion-icon-closed"
-                                                ><i
-                                                  class="fas fa-angle-down"
-                                                ></i
-                                              ></span>
-                                              <span
-                                                class="elementor-accordion-icon-opened"
-                                                ><i class="fas fa-angle-up"></i
-                                              ></span>
-                                            </span>
-                                            <a
-                                              class="elementor-accordion-title"
-                                              href=""
-                                              >Expertise to build the things</a
-                                            >
-                                          </div>
-                                          <div
-                                            id="elementor-tab-content-2493"
-                                            class="elementor-tab-content elementor-clearfix"
-                                            data-tab="3"
-                                            role="tabpanel"
-                                            aria-labelledby="elementor-tab-title-2493"
-                                          >
-                                            <p>
-                                              Duis consectetur feugiat auctor.
-                                              Morbi nec enim luctus, feugiat
-                                              arcu id, ultricies ante. Duis vel
-                                              massa eleifend, porta est non,
-                                              feugiat metus. Cras ante massa,
-                                              tincidunt nec lobortis quis
-                                            </p>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </section>
+                      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
                       <!---->
                       <section
