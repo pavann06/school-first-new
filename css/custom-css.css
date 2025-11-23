@@ -5763,12 +5763,13 @@ body.elementor-page-6512
   background-position: initial;
   background-repeat: no-repeat;
   background-size: cover;
+    
 }
 .elementor-6496
   .elementor-element.elementor-element-17fab8d
   > .elementor-background-overlay {
   background-color: #ffffff;
-  opacity: 0.5;
+  opacity: 0.1;
   transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
 }
 .elementor-6496 .elementor-element.elementor-element-17fab8d {
